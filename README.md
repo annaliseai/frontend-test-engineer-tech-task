@@ -1,6 +1,6 @@
 # Annalise Webdemo
 
-This is a technical assessment task for the [Senior Test Engineer](https://jobs.lever.co/annalise/85329349-1c62-4f03-afda-1bd7ba3e5d4d) role at [annalise.ai](https://annalise.ai/)
+This is a technical assessment task for the [Test Engineer (Frontend)](https://jobs.lever.co/annalise/85329349-1c62-4f03-afda-1bd7ba3e5d4d) role at [annalise.ai](https://annalise.ai/)
 
 Your task is to improve on some existing tests that have been written by software developers given a set of requirements.
 
@@ -8,7 +8,7 @@ You may implement it using either JavaScript or preferably TypeScript, and are w
 
 ## Overview
 
-Implement the requirements described below and push your solution to GitHub for discussion in the scheduled technical interview. You are welcome to use a private repository as long as it is visible to `@lucitemple` `@nich1jb` `@RicoJap` and `@noejon`.
+Implement the requirements described below and push your solution to GitHub for discussion in the scheduled technical interview. You are welcome to use a private repository as long as it is visible to `@mkerollos` `@danrauv` `@cgcurta` `@LWilliams-Annaise` and `@noejon`.
 
 You will be given the email address of a member of the team, and should email this person with a link to your solution at least 24 hours before the scheduled technical interview. You're also encouraged to email them with questions at any time while working on this task.
 
