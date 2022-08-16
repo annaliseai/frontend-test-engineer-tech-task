@@ -8,7 +8,7 @@ You may implement it using either JavaScript or preferably TypeScript, and are w
 
 ## Overview
 
-Implement the requirements described below and push your solution to GitHub for discussion in the scheduled technical interview. You are welcome to use a private repository as long as it is visible to `@mkerollos` `@danrauv` `@cgcurta` `@LWilliams-Annaise` and `@noejon`.
+Implement the requirements described below and push your solution to GitHub for discussion in the scheduled technical interview. You are welcome to use a private repository as long as it is visible to `@LWilliams-Annaise` `@lucitemple` `@nich1jb` `@RicoJap` and `@noejon`.
 
 You will be given the email address of a member of the team, and should email this person with a link to your solution at least 24 hours before the scheduled technical interview. You're also encouraged to email them with questions at any time while working on this task.
 
